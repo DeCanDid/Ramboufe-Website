@@ -175,6 +175,7 @@ const Dynam = () => {
     </main> */}
 
     <div className='location'>
+
       <div className='branch-address mx-auto w-50 text-center mt-1 py-5'>
         <h3>Hours & Locations</h3>
         <div className='my-3'>
@@ -206,6 +207,7 @@ const Dynam = () => {
              <a href="https://www.google.com/maps/place/Ram+Boufe/@7.3595284,3.8667426,17z/data=!4m14!1m7!3m6!1s0x10398da10d74c0f3:0x76c9faf09626ccf3!2sRam+Boufe!8m2!3d7.3595231!4d3.8693175!16s%2Fg%2F11vc7z1367!3m5!1s0x10398da10d74c0f3:0x76c9faf09626ccf3!8m2!3d7.3595231!4d3.8693175!16s%2Fg%2F11vc7z1367?entry=ttu" className='direction-link shadow'>Get Direction</a>
         </div>
       </div>
+      
     </div>
 
     <div className='landing-footer'>

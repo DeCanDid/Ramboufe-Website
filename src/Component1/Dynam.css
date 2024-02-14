@@ -82,6 +82,10 @@ main aside{
     background-color: rgb(39, 2, 2);
     color: #fff;
 }
+
+.branch-address{
+    display: flex;  
+}
 .direction-link{
     width: 150px;
     background-color: #fff;
